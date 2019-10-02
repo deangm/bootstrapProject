@@ -58,3 +58,8 @@ img{
 .collapsecont{
     margin-bottom: 50px;
 }
+.heart{
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
